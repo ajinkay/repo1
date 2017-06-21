@@ -1,6 +1,6 @@
 {
   "name": "aj-code",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "see my code",
   "main": "index.js",
   "dependencies": {
