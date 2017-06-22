@@ -1,7 +1,7 @@
 {
   "name": "aj-code",
-  "version": "1.0.4",
-  "description": "see my code",
+  "version": "1.0.0",
+  "description": "this  is my lib.",
   "main": "index.js",
   "dependencies": {
     "aj-code": "^1.0.0"
@@ -14,6 +14,9 @@
     "type": "git",
     "url": "git+https://github.com/ajinkay/repo1.git"
   },
+  "keywords": [
+    "aj"
+  ],
   "author": "ajinkay kadam",
   "license": "ISC",
   "bugs": {
